@@ -1,0 +1,26 @@
+Components-
+
+Esp32 dev board-01
+Buzzer-01
+Green led-01
+Red led-01
+7805 regulator-02
+PCB board-01
+Jumper wire-01
+Switch-02
+TP4056 charging module-01
+MT3608 booster-01
+18650 Rechargeable battery-02
+LCD display-01
+I2C module-01
+Relay module-01
+Soil moisture sensor-01
+pH sensor-01
+Water pump-01
+Pipe-01
+9V battery with cap-01
+Card board-01
+plastic tree-01
+Plastic box-02
+
+
